@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-useState-form/static/css/main.ca18246f.css",
+    "main.js": "/React-useState-form/static/js/main.75082f39.js",
+    "index.html": "/React-useState-form/index.html",
+    "main.ca18246f.css.map": "/React-useState-form/static/css/main.ca18246f.css.map",
+    "main.75082f39.js.map": "/React-useState-form/static/js/main.75082f39.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca18246f.css",
+    "static/js/main.75082f39.js"
+  ]
+}
